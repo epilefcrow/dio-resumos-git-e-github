@@ -8,15 +8,18 @@ Repositório para armazenar resumos sobre Git e GitHub do Curso Versionamento de
 
 
 
-## 📖 documentação
+## 📖documentação
 
 - [Documentação Git](https://git-scm.com/doc)
 
 - [Documentação GitHub](https://docs.github.com/)
 
 
-
+## 💻Resumos das Aulas
 | Aulas | Resumos |
+|-------|---------|
+|Aula 01 | [resumos]()
+|Aula 02 | [resumos]()
 
 
 
@@ -25,14 +28,10 @@ Gravando Alterações no Repositório local | \[Resumos]()
 
 
 ```
-
-
-
 git init
-
 ```
 
 \## 🔍 Referências
 
-\- \[Digital Innovation]().
+- [Digital Innovation one]().
 
